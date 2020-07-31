@@ -4,13 +4,15 @@
 
 This repository collects:
 
-- Books & Academic Papers
+- Books 
+- Research Papers
 - Online Courses and Videos
 - Clustering Datasets
+- List of Journals
 
 # 1. Books
 
-[Data CLustering](https://books.google.co.in/books/about/Data_Clustering.html?id=edl7AAAAQBAJ&source=kp_book_description&redir_esc=y) by Chandan K. Reddy and Charu C. Aggarwal. This text book covers most of the clustering techniques. Highly recommanded to people working in clusteirng.
+[Data Clustering](https://books.google.co.in/books/about/Data_Clustering.html?id=edl7AAAAQBAJ&source=kp_book_description&redir_esc=y) by Chandan K. Reddy and Charu C. Aggarwal. This text book covers most of the clustering techniques. Highly recommended to people working in clustering.
 
 [Data Clustering: Theory, Algorithms, and Applications](https://books.google.co.in/books?hl=en&lr=&id=ZXLSVPN1X1sC&oi=fnd&pg=PR1&dq=Data+Clustering:+Theory,+Algorithms,+and+Applications&ots=lqfjO2h01X&sig=ZFUNpMOUJJN5yFt8saOgfMXcqfY#v=onepage&q=Data%20Clustering%3A%20Theory%2C%20Algorithms%2C%20and%20Applications&f=false) by Guojun Gan, Chaoqun Ma and Jianhong Wu. This is a useful compendium of a variety of methods of clustering, for a variety of data types, with numerous measures of similarity, and many examples of algorithms. The ultimate emphasis is on the algorithms, even the implementation in MATLAB or C++.
 
@@ -37,13 +39,18 @@ This repository collects:
 ## 2.3. Density Based Clustering Algorithms
 
 ## 2.4. Distance Based Clustering Algorithms
+
 ## 2.5. Time Series Clustering
 
 ## 2.5. Text Clustering
 
 ## 2.6. Subspace Clustering
 
-# 3. Key Journals/Conferences
+# 3. Online Courses
+
+# 4. Clustering Datasets
+
+# 5. List of Journals
 
 
 # References
@@ -88,4 +95,4 @@ This repository collects:
 **More to come...**
 More items will be added to the repository. Please feel free to suggest other key resources by opening an issue report, submitting a pull request, or dropping me an email @ (samariya.durgesh@gmail.com). Enjoy reading!
 
-Last updated on May 16, 2020
+Last updated on July 31, 2020

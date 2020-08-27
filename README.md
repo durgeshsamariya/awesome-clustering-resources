@@ -1,4 +1,4 @@
-# Clustering-Resources
+# Awesome Clustering Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Clustering or Cluster analysis is the task of grouping a set of objects in such a way that objects in the same group (called a cluster) are more similar (in some sense) to each other than to those in other groups (clusters). - [Wikipedia](https://en.wikipedia.org/wiki/Cluster_analysis)
 
@@ -95,4 +95,8 @@ This repository collects:
 **More to come...**
 More items will be added to the repository. Please feel free to suggest other key resources by opening an issue report, submitting a pull request, or dropping me an email @ (samariya.durgesh@gmail.com). Enjoy reading!
 
+<<<<<<< HEAD
 Last updated on July 31, 2020
+=======
+Last updated on May 16, 2020
+>>>>>>> f0eda4ff60546a9ebc2e728b3092804c6aef9cfa

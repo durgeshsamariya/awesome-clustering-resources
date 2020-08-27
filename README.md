@@ -95,8 +95,4 @@ This repository collects:
 **More to come...**
 More items will be added to the repository. Please feel free to suggest other key resources by opening an issue report, submitting a pull request, or dropping me an email @ (samariya.durgesh@gmail.com). Enjoy reading!
 
-<<<<<<< HEAD
 Last updated on July 31, 2020
-=======
-Last updated on May 16, 2020
->>>>>>> f0eda4ff60546a9ebc2e728b3092804c6aef9cfa

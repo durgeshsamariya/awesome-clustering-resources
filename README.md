@@ -8,20 +8,24 @@
 
 ------
 
+</br>
+
 # Table of Contents
 
-* [Books](#1.-books)
-* [Research Papers](#2.-papers)
-    - [Survey Papers](##2.1.-survey-papers)
-    - [State-of-the-Art Papers](##2.2.-state-of-the-art-papers)
-    - [Density Based Clustering Algorithms](##2.3.-density-based-clustering-algorithms)
-    - [Distance Based Clustering Algorithms](##2.4.-distance-based-clustering-algorithms)
-    - [Time Series Clustering](##2.5.-time-series-clustering)
-    - [Text Clustering](##2.6.-text-clustering)
-    - [Subspace Clustering](##2.7.-subspace-clustering)
-* [Online Courses and Videos](#3.-online-courses)
-* [Clustering Datasets](#4.-clustering-datasets)
-* [List of Journals](#5.-list-of-journals)
+* [1. Books](#1.-books)
+* [2. Research Papers](#2.-papers)
+    - [2.1. Survey Papers](##2.1.-survey-papers)
+    - [2.2. State-of-the-Art Papers](##2.2.-state-of-the-art-papers)
+    - [2.3 Density Based Clustering Algorithms](##2.3.-density-based-clustering-algorithms)
+    - [2.4 Distance Based Clustering Algorithms](##2.4.-distance-based-clustering-algorithms)
+    - [2.5 Time Series Clustering](##2.5.-time-series-clustering)
+    - [2.6 Text Clustering](##2.6.-text-clustering)
+    - [2.7 Subspace Clustering](##2.7.-subspace-clustering)
+* [3. Online Courses and Videos](#3.-online-courses)
+* [4. Clustering Datasets](#4.-clustering-datasets)
+* [5. List of Journals](#5.-list-of-journals)
+
+</br>
 
 # 1. Books
 
@@ -29,7 +33,11 @@
 
 [Data Clustering: Theory, Algorithms, and Applications](https://books.google.co.in/books?hl=en&lr=&id=ZXLSVPN1X1sC&oi=fnd&pg=PR1&dq=Data+Clustering:+Theory,+Algorithms,+and+Applications&ots=lqfjO2h01X&sig=ZFUNpMOUJJN5yFt8saOgfMXcqfY#v=onepage&q=Data%20Clustering%3A%20Theory%2C%20Algorithms%2C%20and%20Applications&f=false) by Guojun Gan, Chaoqun Ma and Jianhong Wu. This is a useful compendium of a variety of methods of clustering, for a variety of data types, with numerous measures of similarity, and many examples of algorithms. The ultimate emphasis is on the algorithms, even the implementation in MATLAB or C++.
 
+</br>
+
 # 2. Papers
+
+</br>
 
 ## 2.1. Survey Papers
 
@@ -42,7 +50,9 @@
 | A Survey of Recent Advances in Hierarchical Clustering Algorithms | The computer journal | 1983 | [[5]](#5) | [[PDF]](https://watermark.silverchair.com/26-4-354.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAngwggJ0BgkqhkiG9w0BBwagggJlMIICYQIBADCCAloGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMYRDNq0J2mfmv0_6rAgEQgIICK5Vg9F5NsjSrqYWR0aL9vNztqj8J375zjs2os7QoH_2mMmMqJsUFoGgaPHcUgaQKMmTUZlSVATCicrBAsEWsoNZvNC6ZiQLHkNPh8khrKLCdpmGIq8tCf4tkjxA_ZQF7CXKlzPEBmwbQn9dYd0UBNI0xeKakL01tOSBYLBSY51_f8mBgC7asQ-4qZKaCAtgk3UVpoOHDxRvn4_8oXErsyy-NuXnvRirPcZ5CjOxk39TzCYL5HyFLRiVRQkwLdqf1qmnr2BrUeNTpQonuDKHVBz12O5pbAXsm7IeakA3bgO_FV7XZNkQbzWfL145FlhK3gjyDoSdWDjlWVes8Xr3DAceTyBfEbY63iONmCyJRoiFex6R63Ty9tYRacCUHaHb8xa32ew__qHxNu3IvnoBHm-OCSi9lOj-2rwa1ZtGQjRY3eqOHBa6lKJAV5jJ4fxRTdu-boJwIeAL04uaNZBasCUZ8AFGjlZZKjgKUMfUjqAATguLKTrbMvVj530Y95wK7BzlPDbK689mTtw5E4nc1sC1mUPGPC5yqOoNo_1MIDp2wrIRA2MrAkexus3i3ArgH_FhyZ7DMYauL4-ombm08zkuA1xawXUYClm0cCukoHw3o9Jncx4JskRBDph0BFCnKXt14aCV7dHuXomyxoBFERRpPS4cI2ZPECynvxhGIj4SFXgqLWD_7ZdIgLSji3nHOF_RbWWWnqNUGujG5Xbl_YpwNp8X9G0AzUJEhIA)
 | Subspace clustering for high dimensional data: a review | ACM Sigmod Exploration Newsletter | 2004 | [[10]](#10) | [[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.969.7082&rep=rep1&type=pdf)
 | Clustering of time series data—a survey | Pattern Recognition | 2005 | [[17]](#17) | [[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.115.6594&rep=rep1&type=pdf)
+| A comprehensive survey of clustering algorithms | Annals of Data Science | 2015 | [[18]](#18) | [[URL]](https://link.springer.com/article/10.1007/s40745-015-0040-1)
 
+</br>
 
 ## 2.2. State-of-the-Art Papers
 
@@ -50,6 +60,7 @@
 |------|------------|----|--|---|
 | DBSCAN | KDD | 1996 | [[6]](#6) | [[PDF]](https://www.aaai.org/Papers/KDD/1996/KDD96-037.pdf)
 
+</br>
 
 ## 2.3. Density Based Clustering Algorithms
 
@@ -60,13 +71,14 @@
 | A distribution-based clustering algorithm for mining in large spatial databases | ICDE |  1998 | [[8]](#8) | [[PDF]](http://www.cip.ifi.lmu.de/~xwxu/publications/icde-98.pdf)
 | An efficient approach to clustering in large multimedia databases with noise | AAAI | 1998 | [[9]](#9) | [[PDF]](https://www.aaai.org/Papers/KDD/1998/KDD98-009.pdf)
 
-
+</br>
 
 ## 2.4. Distance Based Clustering Algorithms
 
 | Title | Publication Venue | Year | Reference | URL |
 |------|------------|----|--|---|
 
+</br>
 
 ## 2.5. Time Series Clustering
 
@@ -77,6 +89,7 @@
 |  |  |  | [[]](#) | [[PDF]]()
 |  |  |  | [[]](#) | [[PDF]]()
 
+</br>
 
 ## 2.6. Text Clustering
 
@@ -88,6 +101,7 @@
 |  |  |  | [[]](#) | [[PDF]]()
 |  |  |  | [[]](#) | [[PDF]]()
 
+</br>
 
 ## 2.7. Subspace Clustering
 | Title | Publication Venue | Year | Reference | URL |
@@ -98,6 +112,7 @@ Density-Connected Subspace Clustering for High-Dimensional Data | SIAM | 2004 | 
 | Low rank subspace clustering (LRSC) | Pattern Recognition Letters | 2014 | [[13]](#13) | [[PDF]](https://core.ac.uk/download/pdf/194327517.pdf)
 | DUSC: Dimensionality Unbiased Subspace Clustering | ICDM | 2007 | [[14]](#14) | [[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.559.1652&rep=rep1&type=pdf)
 
+</br>
 
 # 3. Online Courses
 
@@ -151,7 +166,7 @@ Density-Connected Subspace Clustering for High-Dimensional Data | SIAM | 2004 | 
 | <a id='15'> [15] </a> | Florian Beil, Martin Ester, and Xiaowei Xu. 2002. Frequent term-based text clustering. In <i>Proceedings of the eighth ACM SIGKDD international conference on Knowledge discovery and data mining</i> (<i>KDD '02</i>). Association for Computing Machinery, New York, NY, USA, 436–442. DOI:https://doi.org/10.1145/775047.775110
 | <a id='16'> [16] </a> | Liu, T., Liu, S., Chen, Z., & Ma, W. Y. (2003). An evaluation on feature selection for text clustering. In Proceedings of the 20th international conference on machine learning (ICML-03) (pp. 488-495).
 | <a id='17'> [17] </a> | Liao, T. W. (2005). Clustering of time series data—a survey. Pattern recognition, 38(11), 1857-1874.
-
+| <a id='18'> [18] </a> | Xu, D., & Tian, Y. (2015). A comprehensive survey of clustering algorithms. Annals of Data Science, 2(2), 165-193.
 
 ----
 
@@ -160,4 +175,4 @@ Density-Connected Subspace Clustering for High-Dimensional Data | SIAM | 2004 | 
 
 More items will be added to the repository. Please feel free to suggest other key resources by opening an issue report, submitting a pull request, or dropping me an email @ (samariya.durgesh@gmail.com). Enjoy reading!
 
-Last updated on August 28, 2020
+Last updated on November 25, 2020
